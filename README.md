@@ -1,9 +1,9 @@
 ## Prerequisites
 
-1. Install Visual Studio Code
+1. Download and install [Visual Studio Code](https://code.visualstudio.com/download)
 2. You will need a Microsoft Azure Subscription (you should be able to request and obtain one from Slalom)
 3. Install [Azure CLI](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli)
-4. [Install latest Terraform version](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)
+4. Install latest version of [Terraform](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)
 
 Read more about the new Terrafrom Test Framework [here](https://www.hashicorp.com/blog/terraform-1-6-adds-a-test-framework-for-enhanced-code-validation), which is generally available as of Terraform 1.6
 
