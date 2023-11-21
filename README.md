@@ -1,3 +1,7 @@
+## Description
+
+TODO: Add details regarding provisioning of a simple storage account and verifying it with the terraform test framework
+
 ## Prerequisites
 
 1. Download and install [Visual Studio Code](https://code.visualstudio.com/download)
