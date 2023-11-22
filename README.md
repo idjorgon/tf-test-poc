@@ -1,6 +1,9 @@
 ## Description
 
-TODO: Add details regarding provisioning of a simple storage account and verifying it with the terraform test framework
+The intention behind this POC repo is illustrative and its intent is to demonstrate some of the capabilities of the new terrafrom test framework.
+It is not a comparative analysis in any way and does not make judgements vis-a-vis terratest or tf2 vs terrafrom test framework.
+
+We are provisioning a simple storage account in Azure and testing/asserting for variables validation and different storage account attributes.
 
 ## Prerequisites
 
