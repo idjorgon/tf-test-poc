@@ -31,7 +31,7 @@ Read more about signing in to Azure [here](https://learn.microsoft.com/en-us/cli
 2. From within the storage directory, type `terraform test` in the terminal
 3. This will execute the terraform tests and subsequently tear down test resources
 
-As an illustration, if everything was setup correctly you should get the following upon running `terraform test`:
+If everything was setup correctly you should get the following upon running `terraform test`:
 
 ```
 tests/main.tftest.hcl... in progress
