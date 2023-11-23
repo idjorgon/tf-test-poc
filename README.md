@@ -1,6 +1,6 @@
 ## Description
 
-The intention behind this poc repo is illustrative and its intent is to demonstrate some of the capabilities of the new terrafrom test framework.
+The intention of this poc repo is to demonstrate some of the capabilities of the new terrafrom test framework.
 It is not a comparative analysis in any way and does not make judgements vis-a-vis terratest or tf2 vs terrafrom test framework.
 
 We are provisioning a simple storage account in Azure and testing/asserting for variables validation and different storage account attributes. 
@@ -27,9 +27,9 @@ Read more about signing in to Azure [here](https://learn.microsoft.com/en-us/cli
 
 ## Running Tests
 
-1. CD into the storage folder directory
+1. Navigate to the storage directory
 2. From within the storage directory, type `terraform test` in the terminal
-3. This will execute the terraform tests and subsequently tear down test resources
+3. This will run the terraform tests and subsequently destroy the test resources
 
 If everything was setup correctly you should get the following upon running `terraform test`:
 
